@@ -39,3 +39,5 @@ Google & Stack Overflow: I used Google extensively to explore documentation and 
 Anaconda Navigator & Jupyter Notebook: I used the Anaconda distribution to manage the Python environment and launch Jupyter Notebook, which served as the interactive platform for coding, visualizing data, and documenting all results in a structured format.
 
 output:
+
+![Image](https://github.com/user-attachments/assets/680ac088-a671-4a90-bb8b-ca24c1af7a12)
